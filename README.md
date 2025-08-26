@@ -108,10 +108,10 @@ bash experiments/videomme_w_subtitle/qwen2vl/qframe.sh
 
 Note: 
 - For the fix frames experimental settings: 
-    - $\text{sample\_frames} = \text{high\_frames}$
-    - $\text{mid\_frames} = \text{low\_frames} = 0$
-- For the fix tokens e xperimental settings:
-    - $\text{sampled\_frames}$ = $\text{high\_frames}$ + $\frac{\text{mid\_frames}}{4}$ + $\frac{\text{low\_frames}}{16}$
+    - sample&#95;frames = high&#95;frames
+    - mid&#95;frames = low&#95;frames = 0
+- For the fix tokens experimental settings:
+    - sampled&#95;frames = high&#95;frames + mid&#95;frames/4 + low&#95;frames/16
 
 ## Acknowledgement:
 
