@@ -304,6 +304,7 @@ class Qwen2_VL(lmms):
                             height, width, _ = visual[0].shape
                             visual = [Image.fromarray(v).convert("RGB").resize((width // 2, height // 2), Image.Resampling.LANCZOS) for v in visual]
                         
+                        image_content = []
                         for base64_image in visual:
                             # base64_image = Image.fromarray(v).convert("RGB")
                             buffer = BytesIO()
