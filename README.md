@@ -5,6 +5,8 @@
 </p>
 
 ## 📰 News
+🚀 **[2025-9-21]** Q-Frame has been adopted in [The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA](https://arxiv.org/abs/2509.16972)
+
 🚀 **[2025-8-26]** Our code is now available on Github.
 
 🚀 **[2025-6-29]** Our paper "Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs" is now available on arXiv.
