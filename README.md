@@ -115,7 +115,7 @@ Note:
 - For the fix tokens experimental settings:
     - sampled&#95;frames = high&#95;frames + mid&#95;frames/4 + low&#95;frames/16
 
-## Acknowledgement:
+## Acknowledgement
 
 - [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval): One for All Modalities Evaluation Toolkit - including text, image, video, audio tasks.
 - [Long-CLIP](https://github.com/beichenzbc/Long-CLIP.git): [ECCV 2024] Long-CLIP: Unlocking the Long-Text Capability of CLIP
